@@ -9,7 +9,7 @@ This portfolio includes selected personal and academic projects that demonstrate
 
 ## 🔬 Featured Projects
 
-### 🧠 [Diabetic Retinopathy Severity Classification](https://github.com/ncqxm/...)  
+### 🧠 [Diabetic Retinopathy Severity Classification]((https://github.com/ncqxm/DR-Classification.git))  
 A deep learning web app to classify the severity of diabetic retinopathy using EfficientNetB0.  
 - **Model:** EfficientNetB0 + CLAHE preprocessing  
 - **Accuracy:** 81.85%  
@@ -29,7 +29,7 @@ Google Colab, GitHub, Figma
 
 ---
 
-### 🩺 [Diabetes Prediction Web App](https://github.com/ncqxm/diabetes-predictor)  
+### 🩺 [Diabetes Prediction Web App](https://github.com/ncqxm/diabetes-predictor.git)  
 A Streamlit-based web application to predict diabetes risk using the Pima Indians Diabetes dataset.  
 - **Model:** Logistic Regression  
 - **Tech Stack:** scikit-learn, Pandas, Streamlit  
@@ -37,7 +37,7 @@ A Streamlit-based web application to predict diabetes risk using the Pima Indian
 
 ---
 
-### 🗞️ [Fake News Detection using NLP](https://github.com/ncqxm/Fake-News-Detection)  
+### 🗞️ [Fake News Detection using NLP](https://github.com/ncqxm/Fake-News-Detection.git)  
 A text classification project using NLP techniques to detect fake vs real news headlines.  
 - **Model:** Naive Bayes, Logistic Regression  
 - **Text Processing:** TF-IDF, stemming, stopword removal  
@@ -45,7 +45,7 @@ A text classification project using NLP techniques to detect fake vs real news h
 
 ---
 
-### 🧠 [CIFAR-10 Image Classifier (CNN)](https://github.com/ncqxm/cifar10-cnn)  
+### 🧠 [CIFAR-10 Image Classifier (CNN)](https://github.com/ncqxm/cifar10-cnn.git)  
 Trained a CNN from scratch to classify 10 categories in CIFAR-10 dataset.  
 - **Model:** Convolutional Neural Network (CNN)  
 - **Tech Stack:** TensorFlow, Matplotlib, NumPy  
