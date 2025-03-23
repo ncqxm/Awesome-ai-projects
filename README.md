@@ -9,7 +9,7 @@ This portfolio includes selected personal and academic projects that demonstrate
 
 ## 🔬 Featured Projects
 
-### 🧠 [Diabetic Retinopathy Severity Classification]((https://github.com/ncqxm/DR-Classification.git))  
+### 🧠 [Diabetic Retinopathy Severity Classification](https://github.com/ncqxm/DR-Classification.git)  
 A deep learning web app to classify the severity of diabetic retinopathy using EfficientNetB0.  
 - **Model:** EfficientNetB0 + CLAHE preprocessing  
 - **Accuracy:** 81.85%  
