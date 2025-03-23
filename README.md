@@ -52,8 +52,17 @@ Trained a CNN from scratch to classify 10 categories in CIFAR-10 dataset.
 - 📊 Visualized training metrics and predictions.
 
 ---
+### 🌸 [Iris Flower Classifier (Streamlit App)](https://github.com/ncqxm/Iris-classifier)
+
+A beginner-friendly interactive app to classify iris flower species using 4 features. Compares results from two classic machine learning algorithms.
+
+- **Model:** K-Nearest Neighbors (KNN), Decision Tree
+- **Input Features:** Sepal Length, Sepal Width, Petal Length, Petal Width
+- **Tech Stack:** scikit-learn, pandas, matplotlib, Streamlit
+- 🔍 Includes interactive scatter plot and real-time prediction
 
 
+---
 ## 📫 Contact
 
 - 📧 Email: ncqxmnt@gmail.com  
