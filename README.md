@@ -9,23 +9,15 @@ This portfolio includes selected personal and academic projects that demonstrate
 
 ## 🔬 Featured Projects
 
-### 🧠 [Diabetic Retinopathy Severity Classification](https://github.com/ncqxm/DR-Classification.git)  
-A deep learning web app to classify the severity of diabetic retinopathy using EfficientNetB0.  
-- **Model:** EfficientNetB0 + CLAHE preprocessing  
-- **Accuracy:** 81.85%  
-- **Tech Stack:** TensorFlow, Keras, OpenCV, Streamlit  
-- 🎯 Supports early detection and assists ophthalmologists in diagnostics.
+### 🧠 [Diabetic Retinopathy Severity Classification](https://github.com/ncqxm/Senior-Project-Classifying-the-Severity-of-Diabetic-Retinopathy.git)  
+A deep learning project focused on classifying the severity of diabetic retinopathy from retinal fundus images using EfficientNetB0.
 
-**Tech Stack**
-
-  - **Machine Learning & Deep Learning:**  
-TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib
-
-  - **Web Development:**  
-Python, Flask, FastAPI, React, Tailwind CSS, DaisyUI, Streamlit, Vite
-
-  - **Tools & Platforms:**  
-Google Colab, GitHub, Figma
+- **Model:** EfficientNetB0 (CNN) trained on 3,662 retinal images (224×224 px)  
+- **Preprocessing:** CLAHE applied in both RGB and LAB color spaces  
+- **Accuracy:** Achieved 80.04% accuracy with CLAHE in RGB  
+- **Evaluation:** Visualized accuracy/loss graphs and confusion matrix  
+- **Objective:** Assist ophthalmologists in early detection and reduce diagnostic workload
+- **Tech Stack:** Python, TensorFlow, Keras, OpenCV, NumPy, Pandas, Matplotlib, Jupyter Notebook
 
 ---
 
